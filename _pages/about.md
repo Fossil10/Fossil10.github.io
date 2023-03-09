@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "XXX个人主页"
+title: "XX"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-段落1111
+text111111
 
-标题111
+NAME111
 ======
 
-段落222
+text222
 
 Getting started
 ======
