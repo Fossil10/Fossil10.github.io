@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "中国"
+locale                   : "同济大学"
 title                    : "尤鸣宇 / Site Title"
 title_separator          : "-"
 name                     : &name "尤鸣宇"
@@ -83,7 +83,7 @@ author:
   name             : "尤鸣宇"
   avatar           : "profile.png"#头像
   bio              : "视觉感知与机器人学习，基于图像、3D的AIGC算法"
-  location         : "中国"
+  location         : "同济大学"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Fossil10"
+  github           : #"Fossil10"
   google_plus      :
   keybase          :
   instagram        :
