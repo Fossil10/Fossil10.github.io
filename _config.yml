@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "同济大学"
-title                    : "尤鸣宇 / Site Title"
+title                    : "简介"
 title_separator          : "-"
 name                     : &name "尤鸣宇"
 description              : &description "personal description"
