@@ -4,13 +4,20 @@ title: "论文"
 permalink: /publications/
 author_profile: true
 ---
-(1)	Peng Peng; Mingyu You*; Kai Jiang; Hongjun Zhou; Weisheng Xu; Design of an Efficient CNN-based Cough Detection System on Lightweight FPGA, IEEE Transactions on Biomedical Circuits and Systems, 2023
+(1)Peng Peng; Mingyu You*; Kai Jiang; Hongjun Zhou; Weisheng Xu; Design of an Efficient CNN-based Cough Detection System on Lightweight FPGA, IEEE Transactions on Biomedical Circuits and Systems, 2023
+
 (2)	Weihao Wang; Rufeng Zhang; Mingyu You*; Hongjun Zhou; Bin He; 3D Assembly Completion, AAAI 2023.
+
 (3)	Mingyu You; Chaoxian Luo; Hongjun Zhou; Dynamic Dense CRF Inference for Video Segmentation and Semantic SLAM, Pattern Recognition, 133，2023.
+
 (4)	Xuanhui Xu; Mingyu You*; Hongjun Zhou; Bin He; Robot Imitation Learning from Image-only Observation without Real world Interaction, IEEE/ASME Transactions on Mechatronics, 2023
+
 (5)	Rufeng Zhang; Tao Kong; Weihao Wang; Xuan Han; Mingyu You*; 3D Part Assembly Generation with Instance Encoded Transformer, IEEE Robotics and Automation Letters, 7(4):9051-9058, 2022.
+
 (6)	Rufeng Zhang; Tao Kong; Weihao Wang; Xuan Han; Mingyu You*; 3D Part Assembly Generation with Instance Encoded Transformer, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
+
 (7)	Rufeng Zhang; Tao Kong; Xinlong Wang; Mingyu You*; Mask Encoding: A General Instance Mask Representation for Object Segmentation, Pattern Recognition, 124, 2022.
+
 (8)	Zhifeng Qian; Mingyu You*; Hongjun Zhou; Bin He; Weakly Supervised Disentangled Representation for Goal-conditioned Reinforcement Learning, IEEE Robotics and Automation Letters, 7(2):2202-2209, 2022.
 (9)	Mingyu You; WeihaoWang; You Li; Jiaming Liu; Xianghuai Xu; Zhongmin Qiu; Automatic cough detection from realistic audio recordings using C-BiLSTM with boundary regression, Biomedical Signal Processing and Control, 72, Part A, 2022.
 (10)	Zhifeng Qian; Mingyu You; Hongjun Zhou; Bin He; Weakly Supervised Disentangled Representation for Goal-conditioned Reinforcement Learning,  International Conference on Robotics and Automation (ICRA), 2022.
