@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "科研"
-    url: /cv/
+    url: /research/
     
   - title: "团队"
-    url: /markdown/
+    url: /team/
