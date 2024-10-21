@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-联系方式：
-======
 2331841@tongji.edu.cn
 
 
